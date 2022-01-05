@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://balapan-karung.github.io/sgp-jitu/sitemap.xml
